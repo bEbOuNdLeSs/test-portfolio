@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I'm William Cho. Experienced Data Collector with a demonstrated history of working in the information technology and services industry. Skilled in HTML, Data Analytics, Teamwork, Bootstrap, and Cascading Style Sheets (CSS). Strong accounting professional with a Bachelor's degree focused in Business, Management, Marketing, and Related Support Services from University of Washington. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Puzzled",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "DEVxp",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Cookify",
         "startDate": "2015",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
@@ -81,9 +81,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Qanalysts",
+        "title": "Quality Assurance Specialist",
+        "years": "02.2022 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -100,9 +100,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Boiling Point",
+        "title": "Cook",
+        "years": "11.2016 - 02.2022",
         "mainTech": [
           "Angular 7/8"
         ],
