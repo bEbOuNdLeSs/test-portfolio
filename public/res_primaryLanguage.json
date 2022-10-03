@@ -104,6 +104,25 @@
         ]
       },
       {
+        "company": "Qanalysts",
+        "title": "Quality Assurance Specialist",
+        "years": "02.2022 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
         "company": "Boiling Point",
         "title": "Cook",
         "years": "11.2016 - 02.2022",
