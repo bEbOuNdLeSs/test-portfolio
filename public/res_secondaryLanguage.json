@@ -89,18 +89,30 @@
       "title": "Quality Assurance Specialist",
       "years": "02.2022 - present",
       "mainTech": [
-        "Angular 8/9/10"
+        " "
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Identify Issues",
+        "Generate Corrective Actions",
+        "Guarantee Satisfaction",
+        "Exceed Expectations",
+        "Generate Value",
+        "Enforce Standards"
+      ]
+    },
+    {
+      "company": "Domestic Violence Servies of Snohomish County",
+      "title": "Junior Business Consultant",
+      "years": "03.2021 - 06.2021",
+      "mainTech": [
+        " "
+      ],
+      "technologies": [
+        "Creative Thinking",
+        "Problem-solving",
+        "Communicating clearly and empathetically",
+        "Credibility",
+        "Collaboration with all job levels"
       ]
     },
     {
@@ -108,14 +120,13 @@
       "title": "Cook",
       "years": "11.2016 - 02.2022",
       "mainTech": [
-        "Angular 7/8"
+        " "
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Teamwork",
+        "Adaptability",
+        "Kitchen Management",
+        "Detail=oriented"
       ]
     }
   ]
