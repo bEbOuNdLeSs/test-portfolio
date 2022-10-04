@@ -1,0 +1,133 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "I'm William Cho. Experienced Data Collector with a demonstrated history of working in the information technology and services industry. Skilled in HTML, Data Analytics, Teamwork, Bootstrap, and Cascading Style Sheets (CSS). Strong accounting professional with a Bachelor's degree focused in Business, Management, Marketing, and Related Support Services from University of Washington. An innovative problem-solver passionate about developing apps, my current focus is on development and security. Since completing the bootcamp, I have continued my studies independently to learn more about server-back end functions and data storage.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Puzzled",
+      "startDate": "2022",
+      "description": "A website designed for users to create, manage, and solve puzzles. Authentication that allows secure management and oversight of puzzles you upload or favorite from other users. This project was made through the culmination of all techniques that were practiced throughout the bootcamp. With a large focus on MERN stack, authorization, and a clean responsive UI.",
+      "images": [
+        "images/portfolio/projects/puzzled-1.PNG",
+        "images/portfolio/projects/puzzled-2.PNG"
+      ],
+      "url": "https://github.com/bEbOuNdLeSs/puzzled",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "DEVxp",
+      "startDate": "2022",
+      "description": "An interactive learning platform that provides a space for new and experienced coders to practice and develop coding skills. The website currently provides notecards and prompts the user with multiple choice questions related to the topic of their choosing. In future development the website will integrate a leveling system to track the user’s experience and reflect their knowledge.",
+      "images": [
+        "images/portfolio/projects/devxp-1.PNG",
+        "images/portfolio/projects/devxp-2.PNG"
+      ],
+      "url": "https://github.com/bEbOuNdLeSs/cheat-dev",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Cookify",
+      "startDate": "2022",
+      "description": "A website designed with two API’s incorporated to fill the fundamental usage that if a user desires to use a specific recipe, they can use the site to find the ingredients in their local store under the Kroger umbrella.",
+      "images": [
+        "images/portfolio/projects/cookify-1.PNG",
+        "images/portfolio/projects/cookify-2.PNG"
+      ],
+      "url": "https://github.com/bEbOuNdLeSs/Cookify",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Qanalysts",
+      "title": "Quality Assurance Specialist",
+      "years": "02.2022 - present",
+      "mainTech": [
+        " "
+      ],
+      "technologies": [
+        "Identify Issues",
+        "Generate Corrective Actions",
+        "Guarantee Satisfaction",
+        "Exceed Expectations",
+        "Generate Value",
+        "Enforce Standards"
+      ]
+    },
+    {
+      "company": "Domestic Violence Servies of Snohomish County",
+      "title": "Junior Business Consultant",
+      "years": "03.2021 - 06.2021",
+      "mainTech": [
+        " "
+      ],
+      "technologies": [
+        "Creative Thinking",
+        "Problem-solving",
+        "Communicating clearly and empathetically",
+        "Credibility",
+        "Collaboration with all job levels"
+      ]
+    },
+    {
+      "company": "Boiling Point",
+      "title": "Cook",
+      "years": "11.2016 - 02.2022",
+      "mainTech": [
+        " "
+      ],
+      "technologies": [
+        "Teamwork",
+        "Adaptability",
+        "Kitchen Management",
+        "Detail=oriented"
+      ]
+    }
+  ]
+}
