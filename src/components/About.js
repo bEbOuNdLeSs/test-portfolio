@@ -26,6 +26,8 @@ class About extends Component {
             <span>Resume</span>
             <br></br>
             <a href="/William-Cho-Resume-BCS 3.0.docx" download>Click to download</a>
+            <br></br>
+            <span>email : williamhcho@outlook.com</span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
